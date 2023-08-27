@@ -1,0 +1,1 @@
+This bot was made by bszartur on discord. Please credit me if your using this code.
